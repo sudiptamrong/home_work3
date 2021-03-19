@@ -1,0 +1,62 @@
+.header{
+	background-color: rgb(64, 64, 64);
+}
+
+.nav_bar{
+	text-align: right;
+}
+
+.nav_bar ul{
+	display: inline-flex;
+	list-style: none;
+}
+
+.nav_bar ul li{
+	padding: 10px 30px;
+}
+
+.nav_bar ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 30px;
+	text-align: right;
+}
+
+.nav_bar ul li:hover{
+	background-color: black;
+	border-radius: 10px;
+}
+.gallery_text{
+	text-align: center;
+	font-size: 40px;
+	text-decoration: underline;
+
+}
+.gallery{
+	
+}
+
+.product{
+	overflow: hidden;
+}
+img{
+	width: 20%;
+	float: left;
+	margin: 2.5% 2.5%;
+
+}
+.footer{
+	background-color: rgb(64, 64, 64);
+	height: 100px;
+}
+
+
+.border{
+	border: 2px solid black;
+	margin-bottom: 20px;
+}
+
+.margin_bottom{
+	margin-bottom: 20px;
+}
+
